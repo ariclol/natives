@@ -8,5 +8,9 @@ ns: HUD
 BOOL IS_HUD_HIDDEN();
 ```
 
+```
+Returns 1 if it's hidden.
+Returns FALSE if it's not.
+```
 
 ## Return value
